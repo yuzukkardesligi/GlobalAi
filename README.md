@@ -21,15 +21,15 @@ It includes some methods that help the user to manipulate the course:<br>
     3) class student_surname:
     This asks user to enter the surname of student, and accepts only alphabetic characters as input.<br>
     4)class student_id:
-    This asks user to enter the id number of student, and accepts only numeric characters as input.<br><br>
+    This asks user to enter the id number of student, and accepts only numeric characters as input.<br>
     5)class course_grade:
     This asks user to enter the grade for identified course, and accepts only ineteger as input.<br>
 
 
-After definition of class inputs;
--Program starts in a while loop by running classes to record data into the 'Grade System' table which is created in a sqlite databse. Thanks to while loop, the program ask user to end the program or to continue entering multiple student's data at the beginning.
--Only grade input from 'Grade' column in table is read from sql database to use them as inputs of final grade process.
--The final grade process is running with if-elif-else conditions to define numeric grades equievant in alphabetic grade system and states a final letter grade and 'Pass' or 'Fail' statement.
+After definition of class inputs;<br>
+-Program starts in a while loop by running classes to record data into the 'Grade System' table which is created in a sqlite databse. Thanks to while loop, the program ask user to end the program or to continue entering multiple student's data at the beginning.<br>
+-Only grade input from 'Grade' column in table is read from sql database to use them as inputs of final grade process.<br>
+-The final grade process is running with if-elif-else conditions to define numeric grades equievant in alphabetic grade system and states a final letter grade and 'Pass' or 'Fail' statement.<br>
  This process only accepts numeric values between 0 and 100.
 -For the last part, the program creates a dictionary with result data to write them into an excel document.
 
