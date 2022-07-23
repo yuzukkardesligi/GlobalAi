@@ -13,17 +13,17 @@ The project includes five classes of python codes to enter input data of course 
 
 For initialization, the user needs to enter 5 inputs of classes.
 
-It includes some methods that help the user to manipulate the course:
-    1) class course_grade: <br>
-    This asks user to enter the name of course, and accepts only alphabetic characters as input.
+It includes some methods that help the user to manipulate the course:<br>
+    1) class course_grade: 
+    This asks user to enter the name of course, and accepts only alphabetic characters as input.<br>
     2) class student_name:
-    This asks user to enter the name of student, and accepts only alphabetic characters as input.
+    This asks user to enter the name of student, and accepts only alphabetic characters as input.<br>
     3) class student_surname:
-    This asks user to enter the surname of student, and accepts only alphabetic characters as input.
+    This asks user to enter the surname of student, and accepts only alphabetic characters as input.<br>
     4)class student_id:
-    This asks user to enter the id number of student, and accepts only numeric characters as input.
+    This asks user to enter the id number of student, and accepts only numeric characters as input.<br><br>
     5)class course_grade:
-    This asks user to enter the grade for identified course, and accepts only ineteger as input.
+    This asks user to enter the grade for identified course, and accepts only ineteger as input.<br>
 
 
 After definition of class inputs;
