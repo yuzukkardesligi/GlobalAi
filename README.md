@@ -1,7 +1,6 @@
-# GlobalAi
 
 
-# grade calculator for a final statement decision
+# Grade calculator for a final statement decision
 
 
 This is a project called grade calculator for a final grade statement made by Python.
